@@ -8,4 +8,5 @@ Today I Learned
 
 ## 🌌 ComputerNetwork
 - [CORS](https://github.com/Minse5k/TIL/blob/main/Network/CORS.md)
-## 🐙 OS
+## 🐙 DataStructure
+- [Hash](https://github.com/Minse5k/TIL/blob/main/DataStructure/Hash.md)
