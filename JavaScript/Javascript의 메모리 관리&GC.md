@@ -174,7 +174,7 @@ f();
 2. SweepMark 
     - 단계 후에 mark bit가 여전히 0 (false)로 설정된 객체들은 도달할 수 없는 객체이므로 가비지 콜렉터가 수집해 메모리에서 해제됩니다.
 
-[img]([https://blog.kakaocdn.net/dn/bfQmtf/btqzMdRV6cX/NB6QhVagsSjMXXw51OKp5k/img.png](https://blog.kakaocdn.net/dn/bfQmtf/btqzMdRV6cX/NB6QhVagsSjMXXw51OKp5k/img.png))
+![image](https://user-images.githubusercontent.com/81351313/174549958-be6be28f-c212-42e0-a7bb-ae4a716a8bd1.png)
 
 ## 한계: 수동 메모리 해제
 
