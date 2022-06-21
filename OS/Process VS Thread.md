@@ -18,7 +18,7 @@
 
 예를 들어, 인터넷에서 게임을 설치 하면서 웹 서칭도 하고 싶은 것 처럼요.
 
-![Untitled](Process%20VS%20Thread%20b075bc964872420e98255eb4931eab58/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/174815613-e0863f1f-5618-42cb-a619-d56c2ec89e85.png)
 
 즉, 한 프로세스 내에 여러 작업이 동시에 가능해야 합니다. 이 갈래들이 스레드입니다.
 
