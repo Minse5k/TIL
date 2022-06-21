@@ -1,4 +1,4 @@
-# TIL
+# ✍ TIL
 
 Today I Learned
 
@@ -7,9 +7,14 @@ Today I Learned
 - [메모리 관리 & GC](https://github.com/Minse5k/TIL/blob/main/JavaScript/Javascript%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC&GC.md)
 - [04.변수](https://github.com/Minse5k/TIL/blob/main/JavaScript/04%EC%9E%A5%20%EB%B3%80%EC%88%98.md)
 - [05.표현식과 문](https://github.com/Minse5k/TIL/blob/main/JavaScript/05%EC%9E%A5%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)
+
 ## ❄️ WEB
 
 ## 🌌 ComputerNetwork
 - [CORS](https://github.com/Minse5k/TIL/blob/main/Network/CORS.md)
+
 ## 🐙 DataStructure
 - [Hash](https://github.com/Minse5k/TIL/blob/main/DataStructure/Hash.md)
+
+## 🪐 OS
+- [Process vs Thread](https://github.com/Minse5k/TIL/blob/main/OS/Process%20VS%20Thread.md)
