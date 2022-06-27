@@ -19,3 +19,6 @@ Today I Learned
 
 ## 🪐 OS
 - [Process vs Thread](https://github.com/Minse5k/TIL/blob/main/OS/Process%20VS%20Thread.md)
+
+## 🌎 git
+- [깃 기초 & reet vs revgert](https://github.com/Minse5k/TIL/blob/main/git/%EA%B9%83%20%EA%B8%B0%EC%B4%88_revert&reset_.md)
