@@ -42,7 +42,7 @@ logs/**/debug.log
 
 - 현재 버전(타임캡슐)의 상태를 확인한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e73bb9e9-a3d1-42e5-8f4e-37bf8405523f/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913212-58606434-82fc-43b0-b7e2-ba3dc855a086.png)
 
 - No commit yet : 아직 커밋(=버전 = 타임캡슐)이 없다.
 - untracked : 아직 깃의 관리에 들어간 적 없는 파일
@@ -59,7 +59,7 @@ git add . // 모든 파일 담기
 
 git add 후에 git status로 현재 상태를 확인하면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e50c435a-9c3d-401c-8bf4-0b833e685c07/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913359-6e3db5e4-37f6-4b4e-8521-21018a9a4b14.png)
 
 - No commits yet이 뜨지만 Changes to be commited 즉, 커밋 준비가 됐습니다. ( 캡슐을 땅에 묻을 준비가 됐습니다.)
 
@@ -99,7 +99,7 @@ git commit -am "(메시지)"
 
 맨 처음 first commit 한 두개의 파일 중 하나는 삭제하고 하나는 수정해보겠습니다. 거기에 새로운 파일도 하나 만들어보면 git status가 어떻게 보일까요?
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/641a6fe6-baf4-480a-85bd-666fec7fdf72/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913435-59af5bb8-2aa9-46f2-b1ee-85211cbb23dd.png)
 
 lions는 삭제됐고, tigers는 수정됐어, 하지만 untracked file인(내가 알지 못하는) leopards가 추가됐어 라고 알려주고 있습니다.
 
@@ -107,7 +107,7 @@ lions는 삭제됐고, tigers는 수정됐어, 하지만 untracked file인(내�
 
 다음과 같은 커밋 내용이 쌓여있다고 생각해보겠습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c964f2eb-59c9-4115-a18e-8e764efe49ac/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913546-a42173da-00c4-4f8f-999c-2de3b7df34f3.png)
 
 이 커밋이라는 것들 하나하낙 묻어놓은 타임캡슐(버전)이라고 볼 수 있습니다. 나중에 타임캡슐을 파낼 때 안에 뭐가 든 건지 미리 알 수 있게 캡슐마다 작업한 내용을 커밋 메세지로 남겨 둔 것입니다.
 
@@ -119,7 +119,7 @@ lions는 삭제됐고, tigers는 수정됐어, 하지만 untracked file인(내�
 
 현재 Replace Lions with Leopards라는 커밋을 Reset을 통해 돌아간다면 다음과 같이 일어나게된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66944cf9-1e21-49c3-8db1-4dff7c190449/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913600-b7ba2c2f-9d50-4b5f-8bb7-68e006487fb9.png)
 
 즉, Replace Lions with Leopards 커밋 이후의 내용을 모두 reset 함으로써 그 전으로 돌아가게 된다.
 
@@ -133,6 +133,6 @@ lions는 삭제됐고, tigers는 수정됐어, 하지만 untracked file인(내�
 
 이전 커밋 내역을 그대로 남겨 둔 채 새로운 커밋을 만든다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d946e2ba-1217-4e55-9757-64b0da8a4427/Untitled.png)
+![image](https://user-images.githubusercontent.com/81351313/175913648-ccaf4696-c5ad-4fb8-8a5e-3b9803ede368.png)
 
 Replace Lions with Leopards 커밋만 -해줌으로써 그 이후에 있었던 캠슐은 온전히 지킬 수 있다. 이러면 커밋 히스토리는 바뀌지 않기 때문에 충돌이 발생하지 않는다.
