@@ -9,6 +9,8 @@ Today I Learned
 - [05.표현식과 문](https://github.com/Minse5k/TIL/blob/main/JavaScript/05%EC%9E%A5%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)
 - [06. 데이터 타입](https://github.com/Minse5k/TIL/blob/main/JavaScript/06%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
 - [07. 연산자](https://github.com/Minse5k/TIL/blob/main/JavaScript/07%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [10. 객체 리터럴](https://github.com/Minse5k/TIL/blob/main/JavaScript/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+
 ## ❄️ WEB
 
 ## 🌌 ComputerNetwork
