@@ -26,3 +26,6 @@ Today I Learned
 ## 🌎 git
 - [깃 기초 & reet vs revert](https://github.com/Minse5k/TIL/blob/main/git/%EA%B9%83%20%EA%B8%B0%EC%B4%88_revert&reset_.md)
 - [branch: merge vs rebase](https://github.com/Minse5k/TIL/blob/main/git/branch%20merge%20vs%20rebase.md)
+
+## 🚧 Test
+- [Jest](https://github.com/Minse5k/TIL/blob/main/Test/Jest.md)
