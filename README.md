@@ -23,6 +23,9 @@ Today I Learned
 ## 🪐 OS
 - [Process vs Thread](https://github.com/Minse5k/TIL/blob/main/OS/Process%20VS%20Thread.md)
 
+## 🎎 DesignPattern
+- [MV*(MVC, MVP, MVVM)]https://github.com/Minse5k/TIL/blob/main/DesignPattern/MV.(MVC%2C%20MVP%2C%20MVVM%20%EB%B9%84%EA%B5%90).md
+
 ## 🌎 git
 - [깃 기초 & reet vs revert](https://github.com/Minse5k/TIL/blob/main/git/%EA%B9%83%20%EA%B8%B0%EC%B4%88_revert&reset_.md)
 - [branch: merge vs rebase](https://github.com/Minse5k/TIL/blob/main/git/branch%20merge%20vs%20rebase.md)
