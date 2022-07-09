@@ -13,6 +13,7 @@ Today I Learned
 - [11. 원시 값과 객체의 비교](https://github.com/Minse5k/TIL/blob/main/JavaScript/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90.md)
 - [12. 함수](https://github.com/Minse5k/TIL/blob/main/JavaScript/12%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
 - [13. 스코프](https://github.com/Minse5k/TIL/blob/main/JavaScript/13%EC%9E%A5%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [14. 전역 변수의 문제점](https://github.com/Minse5k/TIL/blob/main/JavaScript/14%EC%9E%A5%20%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 
 ## ❄️ WEB
 
