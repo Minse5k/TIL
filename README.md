@@ -16,6 +16,7 @@ Today I Learned
 - [14. 전역 변수의 문제점](https://github.com/Minse5k/TIL/blob/main/JavaScript/14%EC%9E%A5%20%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 - [15. let, const 키워드와 블록 레벨 스코프](https://github.com/Minse5k/TIL/blob/main/JavaScript/15%EC%9E%A5%20let%2C%20const%20%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [16. 프로퍼티 어트리뷰트](https://github.com/Minse5k/TIL/blob/main/JavaScript/16%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
+- [순수Js 토이프로젝트](https://github.com/Minse5k/TIL/tree/main/JavaScript/%5BJS%5DProject)
 
 ## ❄️ WEB
 
