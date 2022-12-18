@@ -21,7 +21,8 @@ Today I Learned
 
 - [순수Js 토이프로젝트](https://github.com/Minse5k/TIL/tree/main/JavaScript/%5BJS%5DProject)
 
-## ❄️ WEB
+## ❄️ Network
+- [CORS](https://github.com/Minse5k/TIL/blob/main/Network/CORS.md)
 
 ## 🌌 ComputerNetwork
 - [CORS](https://github.com/Minse5k/TIL/blob/main/Network/CORS.md)
