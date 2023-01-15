@@ -42,3 +42,6 @@ Today I Learned
 
 ## 🚧 Test
 - [Jest](https://github.com/Minse5k/TIL/blob/main/Test/Jest.md)
+
+## Data Structure
+- [Hash](https://github.com/Minse5k/TIL/blob/main/Test/Hash.md)
